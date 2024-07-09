@@ -2,6 +2,8 @@
 
 Connected Thermometer with MQTT using Arduino Uno WiFi
 
+![IMG_9031](https://github.com/Sam-Sponcy/ThermometerMqtt/assets/93118296/9ad86893-608f-4720-bb26-320f0e52b0c9)
+
 This project implements a connected thermometer using MQTT communication over WiFi with an Arduino Uno WiFi board. The thermometer measures temperature and humidity using a DHT11 sensor and visualizes the data using NeoPixel LED strips, controlled remotely via MQTT messages.
 
 - Features
